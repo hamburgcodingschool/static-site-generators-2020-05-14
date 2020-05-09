@@ -1,3 +1,31 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "hugo-initio"
+
+[params]
+    name = "Anthony Russel"
+    description = "A mystery person"
+    email = "anthony.russel42@example.com"
+    phone = "+234 23 9873237"
+    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2017
+    avatar = "images/guy.jpg"
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+    showSubheader = true
+    showServices = false
+    showRecentWorks = true
+    showDownload = false
+    showClients = true
+    subheader = "This is my personal Website"
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 5
