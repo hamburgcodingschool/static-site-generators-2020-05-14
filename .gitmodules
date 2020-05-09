@@ -1,0 +1,3 @@
+[submodule "teresa/themes/hugo-initio"]
+	path = teresa/themes/hugo-initio
+	url = https://github.com/miguelsimoni/hugo-initio.git

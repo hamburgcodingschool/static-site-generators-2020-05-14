@@ -14,3 +14,9 @@ Create a new hugo website:
 ```
 hugo new site <name of the website>
 ```
+
+Hugo themes: https://themes.gohugo.io/
+
+Initio: https://themes.gohugo.io/hugo-initio/
+
+
